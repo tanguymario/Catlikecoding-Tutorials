@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 41c9dd66cf1ae4ca6979a7e98cd86127
+timeCreated: 1471169209
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Border
+    100004: //RootNode
+    100006: Cylinder
+    100008: Glass
+    100010: Hours Tile
+    100012: Minutes Tile
+    100014: Number
+    100016: Number.001
+    100018: Number.002
+    100020: Number.003
+    100022: Number.004
+    100024: Number.005
+    100026: Number.006
+    100028: Number.007
+    100030: Number.008
+    100032: Number.009
+    100034: Number.010
+    100036: Number.011
+    100038: Seconds Tiles
+    100040: Tile
+    100042: Tile.001
+    100044: Tile.002
+    100046: Tile.003
+    100048: Tile.004
+    100050: Tile.005
+    100052: Tile.006
+    100054: Tile.007
+    100056: Tile.008
+    100058: Tile.009
+    100060: Tile.010
+    100062: Tile.011
+    400000: Body
+    400002: Border
+    400004: //RootNode
+    400006: Cylinder
+    400008: Glass
+    400010: Hours Tile
+    400012: Minutes Tile
+    400014: Number
+    400016: Number.001
+    400018: Number.002
+    400020: Number.003
+    400022: Number.004
+    400024: Number.005
+    400026: Number.006
+    400028: Number.007
+    400030: Number.008
+    400032: Number.009
+    400034: Number.010
+    400036: Number.011
+    400038: Seconds Tiles
+    400040: Tile
+    400042: Tile.001
+    400044: Tile.002
+    400046: Tile.003
+    400048: Tile.004
+    400050: Tile.005
+    400052: Tile.006
+    400054: Tile.007
+    400056: Tile.008
+    400058: Tile.009
+    400060: Tile.010
+    400062: Tile.011
+    2300000: Body
+    2300002: Border
+    2300004: Cylinder
+    2300006: Glass
+    2300008: Hours Tile
+    2300010: Minutes Tile
+    2300012: Number
+    2300014: Number.001
+    2300016: Number.002
+    2300018: Number.003
+    2300020: Number.004
+    2300022: Number.005
+    2300024: Number.006
+    2300026: Number.007
+    2300028: Number.008
+    2300030: Number.009
+    2300032: Number.010
+    2300034: Number.011
+    2300036: Seconds Tiles
+    2300038: Tile
+    2300040: Tile.001
+    2300042: Tile.002
+    2300044: Tile.003
+    2300046: Tile.004
+    2300048: Tile.005
+    2300050: Tile.006
+    2300052: Tile.007
+    2300054: Tile.008
+    2300056: Tile.009
+    2300058: Tile.010
+    2300060: Tile.011
+    3300000: Body
+    3300002: Border
+    3300004: Cylinder
+    3300006: Glass
+    3300008: Hours Tile
+    3300010: Minutes Tile
+    3300012: Number
+    3300014: Number.001
+    3300016: Number.002
+    3300018: Number.003
+    3300020: Number.004
+    3300022: Number.005
+    3300024: Number.006
+    3300026: Number.007
+    3300028: Number.008
+    3300030: Number.009
+    3300032: Number.010
+    3300034: Number.011
+    3300036: Seconds Tiles
+    3300038: Tile
+    3300040: Tile.001
+    3300042: Tile.002
+    3300044: Tile.003
+    3300046: Tile.004
+    3300048: Tile.005
+    3300050: Tile.006
+    3300052: Tile.007
+    3300054: Tile.008
+    3300056: Tile.009
+    3300058: Tile.010
+    3300060: Tile.011
+    4300000: Number.011
+    4300002: Number.010
+    4300004: Number.009
+    4300006: Number.008
+    4300008: Number.007
+    4300010: Number.006
+    4300012: Number.005
+    4300014: Number.004
+    4300016: Number.003
+    4300018: Number.002
+    4300020: Number.001
+    4300022: Number
+    4300024: Glass
+    4300026: Seconds Tiles
+    4300028: Minutes Tile
+    4300030: Hours Tile
+    4300032: Cylinder
+    4300034: Tile.011
+    4300036: Tile.010
+    4300038: Tile.009
+    4300040: Tile.008
+    4300042: Tile.007
+    4300044: Tile.006
+    4300046: Tile.005
+    4300048: Tile.004
+    4300050: Tile.003
+    4300052: Tile.002
+    4300054: Tile.001
+    4300056: Tile
+    4300058: Border
+    4300060: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

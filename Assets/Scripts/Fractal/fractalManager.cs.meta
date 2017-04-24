@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 28e4a517360dc45b1ab564326cb17838
+timeCreated: 1471183396
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - goFractal: {fileID: 191644, guid: e78eebe8cd39a4e8aad75b9bf35b2518, type: 2}
+  - toggleOption: {fileID: 136852, guid: e92f0f1ae344a4601a3dbbe2a6af23cd, type: 2}
+  - toggleMesh: {instanceID: 0}
+  - sliderDepth: {instanceID: 0}
+  - toggleFractal: {instanceID: 0}
+  - toggleColor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

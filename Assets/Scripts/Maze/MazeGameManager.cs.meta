@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 35475b1457859402aac565be43abfde8
+timeCreated: 1471276068
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mazePrefab: {fileID: 11427132, guid: b51c18e46a35f48448efe5135cfd00bb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
