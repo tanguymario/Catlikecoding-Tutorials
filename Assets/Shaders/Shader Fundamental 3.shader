@@ -1,4 +1,6 @@
-﻿Shader "Custom/Shader Fundamental 3"
+﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
+Shader "Custom/Shader Fundamental 3"
 {
 	Properties
 	{
@@ -39,7 +41,7 @@
 			Interpolators MyVertexProgram (VertexData v)
 			{	
 				Interpolators i;
-				i.position = mul(UNITY_MATRIX_MVP, v.position);
+				i.position = UnityObjectToClipPos(v.position);
 				i.uv = TRANSFORM_TEX(v.uv, _MainTex);
 				i.uvSplat = v.uv;
 				return i;

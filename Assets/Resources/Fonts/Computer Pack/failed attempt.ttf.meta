@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 08f37c335148caa488e01abd45a3f210
+guid: d5019faa19524f342a2655088d2ea970
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: Failed Attempt
+  fontNames:
+  - Failed Attempt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 08f37c335148caa488e01abd45a3f210, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

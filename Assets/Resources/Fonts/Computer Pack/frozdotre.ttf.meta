@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fca0fcae72b55aa47be649c0e801ae12
+guid: eef8989f3e5b7b546960202079741369
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,7 +7,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
+  fontName: Frozdotre
+  fontNames:
+  - Frozdotre
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

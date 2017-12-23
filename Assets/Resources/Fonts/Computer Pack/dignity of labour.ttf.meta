@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 019b45b1a6a00c240b57132b73daadb2
+guid: 5b98838a8383ed0478e9dfdbfe7598bd
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: Dignity of Labour
+  fontNames:
+  - Dignity of Labour
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 019b45b1a6a00c240b57132b73daadb2, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

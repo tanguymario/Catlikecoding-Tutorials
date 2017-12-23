@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ddbf3bd6624ad76429ef21634f6865c7
+guid: 221bb65e6cedd5c45ab1e0e810ad1fcb
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,7 +7,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
+  fontName: Karma
+  fontNames:
+  - Karma
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

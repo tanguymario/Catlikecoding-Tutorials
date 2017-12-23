@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7e9cd1b5078de6a44aee0c610662fe29
+guid: 9f7995a439d2463469897083581a1230
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: Golden Girdle
+  fontNames:
+  - Golden Girdle
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7e9cd1b5078de6a44aee0c610662fe29, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

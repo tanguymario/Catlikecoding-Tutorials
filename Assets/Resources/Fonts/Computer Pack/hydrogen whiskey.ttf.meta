@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 22fb9a20441f66e4996839923c65a952
+guid: b730ecf8adbb3564b801727edb9db60b
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: Hydrogen Whiskey
+  fontNames:
+  - Hydrogen Whiskey
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 22fb9a20441f66e4996839923c65a952, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4d6eea763b7dbd64592a210d5870ef9b
+guid: a3c75b8613e967e4cbf9d4e4d19d2689
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: Fake Receipt
+  fontNames:
+  - Fake Receipt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4d6eea763b7dbd64592a210d5870ef9b, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

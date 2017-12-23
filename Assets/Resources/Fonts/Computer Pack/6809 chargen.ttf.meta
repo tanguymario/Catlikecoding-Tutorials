@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6bf2b47c467821641a686aa159989b5e
+guid: 856fd5273bccb8a4293b0a760677006d
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: 6809 Chargen
+  fontNames:
+  - 6809 Chargen
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6bf2b47c467821641a686aa159989b5e, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

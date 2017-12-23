@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a1e91a1fe3c231340b565b03d84789af
+guid: f1456f2730a422541b27279e26603092
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: 256 Bytes
+  fontNames:
+  - 256 Bytes
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a1e91a1fe3c231340b565b03d84789af, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

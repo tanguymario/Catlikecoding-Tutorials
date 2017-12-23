@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b902deadc8b151c46b739c847696fd0b
+guid: c63c8f5c96216064095a025e53355584
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: Horsepower
+  fontNames:
+  - Horsepower
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b902deadc8b151c46b739c847696fd0b, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

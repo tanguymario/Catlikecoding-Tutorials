@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 20a47f711493d5f43b836f30e68668bc
+guid: cc523ddfbcf83e945a46d85ec8398a3e
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: Lilliput Steps
+  fontNames:
+  - Lilliput Steps
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20a47f711493d5f43b836f30e68668bc, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

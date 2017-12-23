@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3004ae1e541669f4b9fcc2e2b7e54b78
+guid: 315c6776212f0cc468cbe17496c736ef
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: Quadaptor
+  fontNames:
+  - Quadaptor
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3004ae1e541669f4b9fcc2e2b7e54b78, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

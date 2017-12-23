@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 644aefc7d2c06bb4281161ff8ad36463
+guid: 5ffe0cc26c80fb249985530d90c1575c
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,7 +7,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
+  fontName: Orange Kid
+  fontNames:
+  - Orange Kid
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

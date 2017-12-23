@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 99e216ed68cfbeb478a927676d19f467
+guid: baac36479dd9c16449d80a14b41a2f19
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,12 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: Betsy Flanagan
+  fontNames:
+  - Betsy Flanagan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9b1eda8a93f1a0541b962d21817ea8bf, type: 3}
+  - {fileID: 12800000, guid: 99e216ed68cfbeb478a927676d19f467, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

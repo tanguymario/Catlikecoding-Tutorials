@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bca6269aedd6bce4e8416223be457414
+guid: 4a8fc4fa228daf041951b13b64b92119
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,7 +7,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
+  fontName: Lady Starlight
+  fontNames:
+  - Lady Starlight
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

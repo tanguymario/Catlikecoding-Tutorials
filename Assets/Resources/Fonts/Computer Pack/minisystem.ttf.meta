@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2e1e0ef0bc82d4d4aab12974418bdf9e
+guid: d76acda63ce57ee44978480ce128ea29
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: Minisystem
+  fontNames:
+  - Minisystem
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2e1e0ef0bc82d4d4aab12974418bdf9e, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

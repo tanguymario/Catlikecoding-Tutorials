@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8e11015f580668a499e5c000de061440
+guid: d1868f4ad027b1c4fb293b0036bc10ec
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: V Dub
+  fontNames:
+  - V Dub
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8e11015f580668a499e5c000de061440, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

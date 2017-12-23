@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2f52bbf2f2e1ff74c944481cc6129fc7
+guid: baf64203a8ef83845a79ee4ad8fbb0e3
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: Sayso Chic
+  fontNames:
+  - Sayso Chic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2f52bbf2f2e1ff74c944481cc6129fc7, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

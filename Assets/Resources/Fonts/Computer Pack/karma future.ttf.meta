@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 926532bc3b570504d976c12037cae026
+guid: ac148f2764088f14ab0faa96c078b509
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,8 +7,12 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: Karma
+  fontNames:
+  - Karma
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 926532bc3b570504d976c12037cae026, type: 3}
+  - {fileID: 12800000, guid: 221bb65e6cedd5c45ab1e0e810ad1fcb, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

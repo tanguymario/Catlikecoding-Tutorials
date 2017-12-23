@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c019cde02b9336f42abfbdd9afa7c3f1
+guid: 068aaa88a8da96c48884bc6e0b1f5262
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -7,7 +7,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames: []
+  fontName: Astron Boy
+  fontNames:
+  - Astron Boy
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
